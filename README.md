@@ -40,6 +40,8 @@ This website uses the following technologies:
 
 - Leaflet.js
 
+- Firebase Hosting
+
 
 ### Installation
 
