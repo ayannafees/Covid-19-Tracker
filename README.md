@@ -20,6 +20,8 @@ This website shows the latest statistics and trends of COVID-19 cases around the
 - Explore the visual representation of worldwide cases using a bar chart.
 
 - Click on the info-boxes to change the data of map and bar graph according to three categories: Active, Recovered and Deaths
+
+- The app is fully responsive, adapting seamlessly to different mobile screens and devices for optimal user experience.
  
  
 ### Dependencies
